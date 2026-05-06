@@ -62,18 +62,6 @@ Gosto de aprender novas tecnologias, criar soluções e explorar diferentes áre
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anaisabel1909&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaisabel1909&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
 # 🎯 Goals | Objetivos
 
 ### 🇺🇸 English
